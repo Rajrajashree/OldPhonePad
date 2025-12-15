@@ -1,0 +1,4 @@
+Console.WriteLine(OldPhoneKeypad.OldPhonePad("33#"));                // E
+Console.WriteLine(OldPhoneKeypad.OldPhonePad("227*#"));              // B
+Console.WriteLine(OldPhoneKeypad.OldPhonePad("4433555 555666#"));    // HELLO
+Console.WriteLine(OldPhoneKeypad.OldPhonePad("8 88777444666*664#")); // ????? (as per keypad logic)
